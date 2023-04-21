@@ -1,0 +1,12 @@
+{
+    "name": "08",
+    "version": "1.0.0",
+    "description": "",
+    "main": "08.js",
+    "scripts": {
+      "start": "node 08"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }

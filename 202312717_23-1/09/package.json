@@ -1,0 +1,12 @@
+{
+    "name": "09",
+    "version": "1.0.0",
+    "description": "",
+    "main": "09.js",
+    "scripts": {
+      "start": "node 09"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }

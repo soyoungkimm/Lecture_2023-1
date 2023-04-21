@@ -1,0 +1,12 @@
+{
+    "name": "10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "10.js",
+    "scripts": {
+      "start": "node 10"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
